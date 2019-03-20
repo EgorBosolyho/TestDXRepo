@@ -1,0 +1,350 @@
+[
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553085708814,
+            "changeTime": 1553085708814,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553085708814,
+            "changeTime": 1553085708814,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1553089396728,
+            "changeTime": 1553089396728,
+            "contentHash": "664df5164d7d4795adfb515652814c046a265226"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1553085708814,
+            "changeTime": 1553085708814,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553085787399,
+            "changeTime": 1553085787399,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX",
+        {
+            "state": "n",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1553086215712,
+            "changeTime": 1553086215712,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/myTest__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/myTest__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2148,
+            "modifiedTime": 1553089396716,
+            "changeTime": 1553089396716,
+            "contentHash": "27fae7679af834ccb5156d47cf78de99a5680ecc"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields/Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 537,
+            "modifiedTime": 1553089396717,
+            "changeTime": 1553089396717,
+            "contentHash": "f8db7ba502f47144c4318ae91c003abc3ee2ee4b"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 359,
+            "modifiedTime": 1553089396717,
+            "changeTime": 1553089396717,
+            "contentHash": "fe3ce061dcc7f42c21cf20db9c7f71aca5bc6861"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1553089396718,
+            "changeTime": 1553089396718,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/layouts/myTest__c-myTest Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/layouts/myTest__c-myTest Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2932,
+            "modifiedTime": 1553089396722,
+            "changeTime": 1553089396722,
+            "contentHash": "00150aeee46572f1ccef31bc05fd7eba97933ac4"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/tabs/myTest__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/tabs/myTest__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1553089396724,
+            "changeTime": 1553089396724,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes/MyTestClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes/MyTestClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1553089396725,
+            "changeTime": 1553089396725,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes/MyTestClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes/MyTestClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 29,
+            "modifiedTime": 1553089396726,
+            "changeTime": 1553089396726,
+            "contentHash": "cb7847aa47e9126532464c8f0d2fa6bfbe43de28"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5096,
+            "modifiedTime": 1553089396730,
+            "changeTime": 1553089396730,
+            "contentHash": "7298236da6c2689ebb1313f72f98e843ea2ee30b"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5096,
+            "modifiedTime": 1553089396733,
+            "changeTime": 1553089396733,
+            "contentHash": "7298236da6c2689ebb1313f72f98e843ea2ee30b"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5434,
+            "modifiedTime": 1553089396737,
+            "changeTime": 1553089396737,
+            "contentHash": "e5d49fed6255b745f7ed54ce419eed72520ff1a2"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19570,
+            "modifiedTime": 1553089396750,
+            "changeTime": 1553089396750,
+            "contentHash": "1338844f846ed66f1283533865d79a02a788083a"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1553089396717,
+            "changeTime": 1553089396717,
+            "contentHash": "665c148ff254f7770ff8f4c037026ff433445342"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553089396714,
+            "changeTime": 1553089396714,
+            "contentHash": "c84d6a53d3a1558567e0c7f889dea3b8a0552b16"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553089396717,
+            "changeTime": 1553089396717,
+            "contentHash": "de302b9fb21309a034be290c1e96ba731f847616"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/objects/myTest__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553089396718,
+            "changeTime": 1553089396718,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553089396722,
+            "changeTime": 1553089396722,
+            "contentHash": "0568e4ce2e732e6675b73638e9085d83f91db2c3"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553089396723,
+            "changeTime": 1553089396723,
+            "contentHash": "4a9167cf9fe69dd1affa2dd685043eb8b65cfe06"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553089396726,
+            "changeTime": 1553089396726,
+            "contentHash": "ab63a4cd24facedca9270c367ff7fb1c2f98d1dd"
+        }
+    ],
+    [
+        "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/enway7/Documents/Projects/Visual Studio Code/TestDX/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1553089396750,
+            "changeTime": 1553089396750,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
